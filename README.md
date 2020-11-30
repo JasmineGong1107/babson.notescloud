@@ -1,2 +1,0 @@
-# babson.notescloud
-Final Project
